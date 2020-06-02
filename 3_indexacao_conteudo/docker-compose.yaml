@@ -4,7 +4,7 @@
 # cd solr-cluster
 # docker-compose up
 
-version: '2'
+version: '3'
 services:
   solr1:
     image: solr:8.5.1
@@ -50,8 +50,9 @@ services:
      - "8888:8888"
     networks:
       - solr
+    command: ["jupyter", "notebook", "--ip='*'", "--NotebookApp.token=''", "--NotebookApp.password=''"]
     volumes:
-      - $(pwd)/workspace:/home/jovyan/
+      - "./work:/home/jovyan/work"
 
 networks:
   solr:
