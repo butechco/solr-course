@@ -1,0 +1,36 @@
+{
+    "id":1614132251,
+    "titulo":"iPhone 11 64GB Branco iOS 4G Câmera 12MP",
+    "marca":"Apple",
+    "loja":"Fast Shop",
+    "preco":4820.58,
+    "url":"https://www.submarino.com.br/produto/1614132251/iphone-11-64gb-branco-ios-4g-camera-12mp-apple",
+    "imagem":"https://images-submarino.b2w.io/produtos/01/00/img/1614132/3/1614132374_1GG.jpg",
+    "avaliacao":4,
+    "parcelas":12,
+    "sem_juros":true
+},
+{
+    "id":462138611,
+    "titulo":"Smartphone Motorola Moto G8 Plus 64GB Dual Chip Android 6.3\" Qualcomm Snapdragon 665 (SM6125) 4G Câmera 48MP + 5MP + 16MP- Azul Safira",
+    "marca":"Motorola",
+    "loja":"Submariono",
+    "preco":1499.00,
+    "url":"https://www.submarino.com.br/produto/462138611/smartphone-motorola-moto-g8-plus-64gb-dual-chip-android-6-3-qualcomm-snapdragon-665-sm6125-4g-camera-48mp-5mp-16mp-azul-safira?pfm_carac=celular%20motorola&pfm_index=1&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+    "imagem":"https://images-submarino.b2w.io/produtos/01/00/img7/01/00/item/462138/6/462138611_1GG.jpg",
+    "avaliacao":4,
+    "parcelas":12,
+    "sem_juros":true
+},
+{
+    "id":360560511,
+    "titulo":"Smartphone Samsung Galaxy A30s 64GB Dual Chip Android 9.0 Tela 6.4\" Octa-Core 4G Câmera Tripla 25MP + 5MP + 8MP - Preto",
+    "marca":"Samsung",
+    "loja":"Submarino",
+    "preco":1399.00,
+    "url":"https://www.submarino.com.br/produto/360560511/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9-0-tela-6-4-octa-core-4g-camera-tripla-25mp-5mp-8mp-preto?pfm_carac=celular%20galaxy&pfm_page=search&pfm_pos=grid&pfm_type=search_page",
+    "imagem":"https://images-submarino.b2w.io/produtos/01/00/img/360560/5/360560538_1GG.jpg",
+    "avaliacao":4,
+    "parcelas":12,
+    "sem_juros":true
+}
